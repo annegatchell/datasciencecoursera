@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository created for use in the JSU Data Science Coursera Course.
+Repository created for use in the JHU Data Science Coursera Course.
